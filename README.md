@@ -56,7 +56,9 @@ supporting both personal professional growth and the creation of a sustainable e
 ## 📅 Development Roadmap (Oct 2025 – Oct 2026)
 
 The development of *Dice of Six* follows a one-year roadmap focused on steady growth and sustainable progress.  
-Each stage moves from early foundation to public release and long-term updates, reflecting continuous self-employment activity under OPT.
+Each stage moves from early foundation to public release and long-term updates,  
+reflecting continuous self-employment activity under OPT and the growth of **nomnom studio**.
+
 
 ### **Phase 1 – Foundation (Oct–Dec 2025)**
 Laying the groundwork for all core systems, interface design, and saving mechanics.  
@@ -77,11 +79,6 @@ Beginning community feedback collection, stability monitoring, and post-launch s
 ### **Phase 5 – Post-Launch Development (Aug–Oct 2026)**
 Continuing updates, bug fixes, and feature expansions.  
 Focusing on long-term player engagement, content updates, and business documentation for OPT reporting.
-
----
-
-This roadmap is designed to reflect steady progress and professional development practices  
-as part of ongoing **self-employment under OPT** and the growth of **nomnom studio**.
 
 ---
 

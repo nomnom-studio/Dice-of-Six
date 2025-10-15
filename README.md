@@ -1,6 +1,6 @@
 # 🎲 Dice of Six
 
-**Studio:** nomnom Studio  
+**Studio:** nomnom studio  
 **Founder & Developer:** Yunyong Cho (alias *nomnom*)  
 **Business Type:** Sole Proprietorship / Self-Employment under OPT  
 **Project Type:** Idle / Incremental 2D Game (Unity 6, C#)  
@@ -16,6 +16,28 @@
 The game is designed for long-term progression and synergy-based gameplay rather than fast completion.
 
 This project represents an ongoing, self-developed title under **nomnom studio**, demonstrating consistent software development.
+
+---
+
+## 🎓 Origin & Purpose
+
+*Dice of Six* originated from academic coursework completed at **California State University, Northridge (CSUN)**,  
+specifically from **COMP565 – Advanced Computer Graphics** and **COMP485 – Human-Computer Interaction**,  
+instructed by **Professor Vahe Karamian**. The project began as a practical application of my studies in **Computer Science**,  
+combining system design, UI/UX, and computational logic into an original interactive product.
+
+Following graduation, the project evolved into a **self-employment venture** under **Post-OPT**,  
+operating as an independent business entity (**nomnom studio**).  
+This structure enables continuous application of academic knowledge to real-world development,  
+fulfilling the OPT requirement of engaging in professional training directly related to my field of study.
+
+The business plan includes clear objectives, a revenue model, and a long-term roadmap toward a commercial release on Steam.  
+All development is documented through verifiable commit history, daily work logs, and tangible deliverables,  
+ensuring that this activity is a legitimate, structured business rather than a personal hobby.
+
+By pursuing this work in the United States, I benefit from proximity to global distribution platforms,  
+hardware and software innovation networks, and potential investment opportunities —  
+supporting both personal professional growth and the creation of a sustainable entertainment product.
 
 ---
 
@@ -55,7 +77,6 @@ Beginning community feedback collection, stability monitoring, and post-launch s
 ### **Phase 5 – Post-Launch Development (Aug–Oct 2026)**
 Continuing updates, bug fixes, and feature expansions.  
 Focusing on long-term player engagement, content updates, and business documentation for OPT reporting.
-
 
 ---
 

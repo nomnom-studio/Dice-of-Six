@@ -82,6 +82,28 @@ Focusing on long-term player engagement, content updates, and business documenta
 
 ---
 
+🕒 Work Schedule & Documentation
+
+Work Hours (Mon–Fri):
+
+Start: 8:00 AM
+
+Break: 12:00 PM – 1:00 PM
+
+End: 5:00 PM
+
+Total: 8 hours per day (40 hours per week)
+
+All development is conducted as part of full-time self-employment under F-1 OPT,
+following a consistent daily schedule and verified through documented timesheets.
+
+📗 Development Timesheet (Google Sheets):
+https://docs.google.com/spreadsheets/d/1Hvmm0hGXmCE1-l4J-OVZ9XngYLFH2RbC_sbYNJmgq6w/edit?usp=sharing
+
+All work hours, tasks, and development logs are regularly updated for transparency and OPT activity verification.
+
+---
+
 ## 🧾 Development Notes
 
 - This repository is for **portfolio and verification purposes** only.  

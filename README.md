@@ -28,7 +28,7 @@ inspired by **COMP565: Advanced Computer Graphics** and **COMP485: Human-Compute
 The coursework provided the foundation for transforming theoretical concepts into an interactive software product.
 
 The project functions as a structured business focused on developing a commercially viable game.  
-It operates under a formal business plan with a defined development roadmap and verifiable daily documentation,
+It operates under a formal business plan with a defined development roadmap and verifiable daily documentation,  
 ensuring that all work aligns with the standards of legitimate self-employment.
 
 Conducting this work in the United States allows access to  

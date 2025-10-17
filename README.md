@@ -81,7 +81,8 @@ Each phase includes milestone documentation, progress tracking, and commit verif
 
 ## ⚖️ License
 
-All rights reserved.  
+All rights reserved.
+
 You may view this repository for educational or verification purposes,  
 but **copying, modifying, or redistributing any part of the code or assets is strictly prohibited**  
 without explicit permission from **nomnom studio**.

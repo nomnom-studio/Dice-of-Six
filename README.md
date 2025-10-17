@@ -24,7 +24,7 @@ reflecting continuous, full-time engagement in a professional software developme
 ## 🎓 Origin & Purpose
 
 *Dice of Six* began as an academic project at **California State University, Northridge (CSUN)**,  
-inspired by **COMP565: Advanced Computer Graphics** and **COMP485: Human-Computer Interaction**, instructed by **Professor Vahe Karamian**.
+inspired by **COMP565: Advanced Computer Graphics** and **COMP485: Human-Computer Interaction** by **Professor Vahe Karamian**.
 The coursework provided the foundation for transforming theoretical concepts into an interactive software product.
 
 The project now functions as a structured business initiative focused on building a  

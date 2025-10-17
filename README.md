@@ -33,7 +33,7 @@ ensuring that all work aligns with the standards of legitimate self-employment.
 
 Conducting this work in the United States allows access to  
 industry-leading tools, digital distribution platforms, and innovation networks essential for global release.  
-In turn, the project contributes to the U.S. creative economy by fostering independent software production,
+In turn, the project contributes to the U.S. creative economy by fostering independent software production,  
 and strengthening the presence of small-scale digital entertainment businesses within the U.S. market.
 
 ---

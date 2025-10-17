@@ -57,19 +57,13 @@ All work is tracked and verifiable through:
 The development of *Dice of Six* follows a one-year roadmap focused on steady growth and sustainable progress.  
 Each phase includes milestone documentation, progress tracking, and commit verification to maintain transparency.
 
-**Phase 1 – Foundation (Oct–Dec 2025):** Establishment of gameplay systems, UI, and save data framework  
-**Phase 2 – Expansion (Jan–Mar 2026):** Progression design and feature integration  
-**Phase 3 – Refinement (Apr–Jun 2026):** Optimization, polish, and content tuning  
-**Phase 4 – Launch (Jul 2026):** Steam release and community testing  
-**Phase 5 – Post-Launch (Aug–Oct 2026):** Maintenance, content updates, and business reporting
-
 | **Phase** | **Period** | **Focus** | **Key Goals** |
 |------------|-------------|------------|----------------|
-| 🧱 **Phase 1 – Foundation** | Oct–Dec 2025 | Core System Setup | Establish gameplay systems, UI structure, and save-data framework |
-| 🌿 **Phase 2 – Expansion** | Jan–Mar 2026 | Feature Growth | Implement progression systems and integrate major gameplay features |
-| ⚙️ **Phase 3 – Refinement** | Apr–Jun 2026 | Optimization | Improve performance, polish visuals, and balance content |
-| 🚀 **Phase 4 – Launch** | Jul 2026 | Public Release | Launch on Steam and begin community testing |
-| 🔄 **Phase 5 – Post-Launch** | Aug–Oct 2026 | Support & Growth | Maintain updates, add content, and prepare business reports |
+| 🌱 **Foundation** | Oct–Dec 2025 | Core System Setup | Establish gameplay systems, UI structure, and save-data framework |
+| 🌿 **Expansion** | Jan–Mar 2026 | Feature Growth | Implement progression systems and integrate major gameplay features |
+| ✨ **Refinement** | Apr–Jun 2026 | Optimization | Improve performance, polish visuals, and balance content |
+| 🚀 **Launch** | Jul 2026 | Public Release | Launch on Steam and begin community testing |
+| 🛠️ **Post-Launch** | Aug–Oct 2026 | Support & Growth | Maintain updates, add content, and prepare business reports |
 
 ---
 

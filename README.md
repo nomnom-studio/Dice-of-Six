@@ -1,11 +1,11 @@
 # 🎲 Dice of Six
 
-**Studio:** nomnom studio
-**Founder & Developer:** Yunyong Cho (alias *nomnom*)
-**Business Type:** Sole Proprietorship / Self-Employment
-**Project Type:** Idle / Incremental 2D Game
-**Status:** In Development
-**Engine:** Unity 6
+**Studio:** nomnom studio  
+**Founder & Developer:** Yunyong Cho (alias *nomnom*)  
+**Business Type:** Sole Proprietorship / Self-Employment  
+**Project Type:** Idle / Incremental 2D Game  
+**Status:** In Development  
+**Engine:** Unity 6  
 **Platform:** PC (Steam Release Planned)
 
 ---

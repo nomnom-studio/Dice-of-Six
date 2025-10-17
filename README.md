@@ -23,21 +23,21 @@ reflecting continuous, full-time engagement in a professional software developme
 
 ## 🎓 Origin & Purpose
 
-The foundation of *Dice of Six* stems from coursework completed a 
-**California State University, Northridge (CSUN)** — particularly
-**COMP565: Advanced Computer Graphics** and **COMP485: Human-Computer Interaction**
+The foundation of *Dice of Six* stems from coursework completed a  
+**California State University, Northridge (CSUN)** — particularly  
+**COMP565: Advanced Computer Graphics** and **COMP485: Human-Computer Interaction**  
 instructed by **Professor Vahe Karamian**.
 
-The project extends these academic principles into a practical business application,
-focusing on **interactive systems**, **UI/UX design**, and **computational logic**
+The project extends these academic principles into a practical business application,  
+focusing on **interactive systems**, **UI/UX design**, and **computational logic**  
 within a commercially viable software product.
 
-The business plan includes clear objectives, a revenue model, and a long-term roadmap toward a commercial release on Steam.
-All development is documented through verifiable commit history, daily work logs, and tangible deliverables,
+The business plan includes clear objectives, a revenue model, and a long-term roadmap toward a commercial release on Steam.  
+All development is documented through verifiable commit history, daily work logs, and tangible deliverables,  
 ensuring that this activity is a legitimate, structured business rather than a personal hobby.
 
-By pursuing this work in the United States, I benefit from proximity to global distribution platforms,
-hardware and software innovation networks, and potential investment opportunities —
+By pursuing this work in the United States, I benefit from proximity to global distribution platforms,  
+hardware and software innovation networks, and potential investment opportunities —  
 supporting both personal professional growth and the creation of a sustainable entertainment product.
 
 ---
@@ -56,7 +56,7 @@ supporting both personal professional growth and the creation of a sustainable e
 
 ## 📅 Development Roadmap (Oct 2025 – Oct 2026)
 
-The development of *Dice of Six* follows a one-year roadmap focused on steady growth and sustainable progress.
+The development of *Dice of Six* follows a one-year roadmap focused on steady growth and sustainable progress.  
 Each phase includes milestone documentation, progress tracking, and commit verification to maintain transparency.
 
 **Phase 1 – Foundation (Oct–Dec 2025):** Establishment of gameplay systems, UI, and save data framework  
@@ -70,7 +70,7 @@ Each phase includes milestone documentation, progress tracking, and commit verif
 ## 🕒 Work Schedule & Documentation
 
 **Work Hours (Mon–Fri):**
-**Start:** 8:00 AM  **Break:** 12:00 PM – 1:00 PM  **End:** 5:00 PM
+**Start:** 8:00 AM  **Break:** 12:00 PM – 1:00 PM  **End:** 5:00 PM  
 **Total:** 8 hours per day (**40 hours per week**)
 
 **Verification Method:**  

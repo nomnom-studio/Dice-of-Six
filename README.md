@@ -5,7 +5,7 @@
 **Business Type:** Sole Proprietorship / Self-Employment  
 **Project Type:** Idle / Incremental 2D Game  
 **Status:** In Development  
-**Engine:** Unity 6  
+**Engine:** Unity  
 **Platform:** PC (Steam Release Planned)
 
 ---
@@ -27,15 +27,13 @@ reflecting continuous, full-time engagement in a professional software developme
 inspired by **COMP565: Advanced Computer Graphics** and **COMP485: Human-Computer Interaction** by **Professor Vahe Karamian**.  
 The coursework provided the foundation for transforming theoretical concepts into an interactive software product.
 
-The project now functions as a structured business initiative focused on building a  
-commercially viable game through professional software engineering practices.  
-Its operations include a formal business plan, defined development roadmap,  
-and verifiable daily documentation that reflect the standards of legitimate self-employment.
+The project functions as a structured business focused on developing a commercially viable game.  
+It operates under a formal business plan with a defined development roadmap and verifiable daily documentation,
+ensuring that all work aligns with the standards of legitimate self-employment.
 
 Conducting this work in the United States allows access to  
 industry-leading tools, digital distribution platforms, and innovation networks essential for global release.  
-In turn, the project contributes to the U.S. creative economy by fostering  
-independent software production, generating intellectual property,  
+In turn, the project contributes to the U.S. creative economy by fostering independent software production,
 and strengthening the presence of small-scale digital entertainment businesses within the U.S. market.
 
 ---

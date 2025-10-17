@@ -48,7 +48,7 @@ and strengthening the presence of small-scale digital entertainment businesses w
 Development activity is conducted on a consistent full-time schedule.  
 All work is tracked and verifiable through:  
 - **💾 GitHub Commit History** — records of version control and code changes  
-- **🧾 Google Sheets Timesheet** — daily work-hour and task tracking ([View Here](https://docs.google.com/spreadsheets/d/1Hvmm0hGXmCE1-l4J-OVZ9XngYLFH2RbC_sbYNJmgq6w/edit?usp=sharing))  
+- **🧾 Google Sheets Timesheet** — daily work-hour and task tracking [[View Here](https://docs.google.com/spreadsheets/d/1Hvmm0hGXmCE1-l4J-OVZ9XngYLFH2RbC_sbYNJmgq6w/edit?usp=sharing)]  
 
 ---
 
@@ -62,6 +62,14 @@ Each phase includes milestone documentation, progress tracking, and commit verif
 **Phase 3 – Refinement (Apr–Jun 2026):** Optimization, polish, and content tuning  
 **Phase 4 – Launch (Jul 2026):** Steam release and community testing  
 **Phase 5 – Post-Launch (Aug–Oct 2026):** Maintenance, content updates, and business reporting
+
+| **Phase** | **Period** | **Focus** | **Key Goals** |
+|------------|-------------|------------|----------------|
+| 🧱 **Phase 1 – Foundation** | Oct–Dec 2025 | Core System Setup | Establish gameplay systems, UI structure, and save-data framework |
+| 🌿 **Phase 2 – Expansion** | Jan–Mar 2026 | Feature Growth | Implement progression systems and integrate major gameplay features |
+| ⚙️ **Phase 3 – Refinement** | Apr–Jun 2026 | Optimization | Improve performance, polish visuals, and balance content |
+| 🚀 **Phase 4 – Launch** | Jul 2026 | Public Release | Launch on Steam and begin community testing |
+| 🔄 **Phase 5 – Post-Launch** | Aug–Oct 2026 | Support & Growth | Maintain updates, add content, and prepare business reports |
 
 ---
 

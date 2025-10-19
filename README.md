@@ -63,7 +63,7 @@ Each phase includes milestone documentation, progress tracking, and commit verif
 | 🌿 **Growth** | Jan–Mar 2026 | Feature Growth | Implement progression systems and integrate major gameplay features |
 | ✨ **Polish** | Apr–Jun 2026 | Optimization | Improve performance, polish visuals, and balance content |
 | 🚀 **Launch** | Jul 2026 | Public Release | Launch on Steam and begin community testing |
-| 🛠️ **Uplift** | Aug–Oct 2026 | Support & Growth | Maintain updates, add content, and prepare business reports |
+| 🛠️ **Maintain** | Aug–Oct 2026 | Support & Growth | Refine systems, expand content, and complete business reports |
 
 ---
 

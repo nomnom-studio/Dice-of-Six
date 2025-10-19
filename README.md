@@ -59,11 +59,11 @@ Each phase includes milestone documentation, progress tracking, and commit verif
 
 | **Phase** | **Period** | **Focus** | **Key Goals** |
 |------------|-------------|------------|----------------|
-| 🌱 **Foundation** | Oct–Dec 2025 | Core System Setup | Establish gameplay systems, UI structure, and save-data framework |
-| 🌿 **Expansion** | Jan–Mar 2026 | Feature Growth | Implement progression systems and integrate major gameplay features |
-| ✨ **Refinement** | Apr–Jun 2026 | Optimization | Improve performance, polish visuals, and balance content |
-| 🚀 **Launch** | Jul 2026 | Public Release | Launch on Steam and begin community testing |
-| 🛠️ **Post-Launch** | Aug–Oct 2026 | Support & Growth | Maintain updates, add content, and prepare business reports |
+| 🌱 **Foundation** | Oct–Dec<br>2025 | Core System Setup | Establish gameplay systems, UI structure, and save-data framework |
+| 🌿 **Expansion** | Jan–Mar<br>2026 | Feature Growth | Implement progression systems and integrate major gameplay features |
+| ✨ **Refinement** | Apr–Jun<br>2026 | Optimization | Improve performance, polish visuals, and balance content |
+| 🚀 **Launch** | Jul<br>2026 | Public Release | Launch on Steam and begin community testing |
+| 🛠️ **Post-Launch** | Aug–Oct<br>2026 | Support & Growth | Maintain updates, add content, and prepare business reports |
 
 ---
 

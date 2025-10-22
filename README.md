@@ -4,13 +4,13 @@
 **Developer & Owner:** Yunyong Cho (alias *nomnom*)  
 **Business Type:** Sole Proprietorship / Self-Employment  
 **Project Type:** Idle / Incremental 2D Game  
-**Status:** In Development  
+**Status:** In Development (Current Phase: 🌱Setup)  
 **Engine:** Unity  
 **Platform:** PC (Steam Release Planned)
 
 ---
 
-## 🌱 Overview
+## 🌐 Overview
 
 *Dice of Six* is an independent game project that merges dice mechanics with incremental and idle gameplay.  
 It emphasizes long-term progression, strategic build development, and creative system design.

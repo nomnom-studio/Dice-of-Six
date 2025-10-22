@@ -28,7 +28,7 @@ reflecting continuous, full-time engagement in a professional software developme
 The coursework provided the foundation for transforming theoretical concepts into an interactive software product.
 
 The project functions as a structured business focused on developing a commercially viable game.  
-It operates under a formal business plan with a defined development roadmap and verifiable daily documentation,  
+It operates under a formal business plan with a defined roadmap and verifiable daily documentation,  
 ensuring that all work aligns with the standards of legitimate self-employment.
 
 Conducting this project as an independent software enterprise in the United States allows access to  
@@ -85,6 +85,6 @@ All rights reserved.
 
 You may view this repository for educational or verification purposes,  
 but **copying, modifying, or redistributing any part of the code or assets is strictly prohibited**  
-without explicit permission from **nomnom studio**.
+without explicit permission from **NOMNOM Studio**.
 
 © 2025 NOMNOM Studio

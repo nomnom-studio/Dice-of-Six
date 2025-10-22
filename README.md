@@ -5,8 +5,8 @@
 **Business Type:** Sole Proprietorship / Self-Employment  
 **Project Type:** Idle / Incremental 2D Game  
 **Status:** In Development (Current Phase: 🌱Setup)  
-**Engine:** Unity  
-**Platform:** PC (Steam Release Planned)
+**Platform:** PC (Steam Release Planned)  
+**Engine:** Unity
 
 ---
 

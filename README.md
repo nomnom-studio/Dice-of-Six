@@ -31,7 +31,7 @@ The project functions as a structured business focused on developing a commercia
 It operates under a formal business plan with a defined development roadmap and verifiable daily documentation,  
 ensuring that all work aligns with the standards of legitimate self-employment.
 
-Conducting this work in the United States allows access to  
+Conducting this project as an independent software enterprise in the United States allows access to  
 industry-leading tools, digital distribution platforms, and innovation networks essential for global release.  
 In turn, the project contributes to the U.S. creative economy by fostering independent software production,  
 and strengthening the presence of small-scale digital entertainment businesses within the U.S. market.
@@ -40,8 +40,8 @@ and strengthening the presence of small-scale digital entertainment businesses w
 
 ## 🕒 Work Schedule & Documentation
 
-**Work Hours (Mon–Fri):**
-**Start:** 8:00 AM  **Break:** 12:00 PM – 1:00 PM  **End:** 5:00 PM  
+**Work Hours (Mon–Fri):** 8:00 AM – 12:00 PM, 1:00 PM – 5:00 PM  
+**Break:** 12:00 PM – 1:00 PM  
 **Total:** 8 hours per day (**40 hours per week**)
 
 **Verification Method:**  
@@ -59,11 +59,11 @@ Each phase includes milestone documentation, progress tracking, and commit verif
 
 | **Phase** | **Period** | **Focus** | **Key Goals** |
 |------------|-------------|------------|----------------|
-| 🌱 **Foundation** | Oct–Dec 2025 | Core System Setup | Establish gameplay systems, UI structure, and save-data framework |
-| 🌿 **Expansion** | Jan–Mar 2026 | Feature Growth | Implement progression systems and integrate major gameplay features |
-| ✨ **Refinement** | Apr–Jun 2026 | Optimization | Improve performance, polish visuals, and balance content |
+| 🌱 **Setup** | Oct–Dec 2025 | Core System Setup | Establish gameplay systems, UI structure, and save-data framework |
+| 🌿 **Growth** | Jan–Mar 2026 | Feature Growth | Implement progression systems and integrate major gameplay features |
+| ✨ **Polish** | Apr–Jun 2026 | Optimization | Improve performance, polish visuals, and balance content |
 | 🚀 **Launch** | Jul 2026 | Public Release | Launch on Steam and begin community testing |
-| 🛠️ **Post-Launch** | Aug–Oct 2026 | Support & Growth | Maintain updates, add content, and prepare business reports |
+| 🛠️ **Maintain** | Aug–Oct 2026 | Support & Expand | Refine systems, expand content, and fix bugs |
 
 ---
 

@@ -1,6 +1,6 @@
 ## 🎲 Dice of Six
 
-**Studio:** nomnom studio  
+**Studio:** NOMNOM Studio  
 **Founder & Developer:** Yunyong Cho (alias *nomnom*)  
 **Business Type:** Sole Proprietorship / Self-Employment  
 **Project Type:** Idle / Incremental 2D Game  
@@ -15,7 +15,7 @@
 *Dice of Six* is an independent game project that merges dice mechanics with incremental and idle gameplay.  
 It emphasizes long-term progression, strategic build development, and creative system design.
 
-The project operates under **nomnom studio**, an individually owned creative software initiative.  
+The project operates under **NOMNOM Studio**, an individually owned creative software initiative.  
 Its structure and documentation are designed to align with **OPT self-employment eligibility**,  
 reflecting continuous, full-time engagement in a professional software development capacity.
 
@@ -87,4 +87,4 @@ You may view this repository for educational or verification purposes,
 but **copying, modifying, or redistributing any part of the code or assets is strictly prohibited**  
 without explicit permission from **nomnom studio**.
 
-© 2025 nomnom studio
+© 2025 NOMNOM Studio

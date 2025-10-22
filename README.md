@@ -47,8 +47,8 @@ and strengthening the presence of small-scale digital entertainment businesses w
 **Verification Method:**  
 Development activity is conducted on a consistent full-time schedule.  
 All work is tracked and verifiable through:  
-- **💾 GitHub Commit History** — records of version control and code changes [[View Here](https://github.com/nomnom-studio)] 
-- **🧾 Google Sheets Timesheet** — daily work-hour and task tracking [[View Here](https://docs.google.com/spreadsheets/d/1Hvmm0hGXmCE1-l4J-OVZ9XngYLFH2RbC_sbYNJmgq6w/edit?usp=sharing)]  
+- **💾 GitHub Commit History:** records of version control and code changes [[View Here](https://github.com/nomnom-studio)] 
+- **🧾 Google Sheets Timesheet:** daily work-hour and task tracking [[View Here](https://docs.google.com/spreadsheets/d/1Hvmm0hGXmCE1-l4J-OVZ9XngYLFH2RbC_sbYNJmgq6w/edit?usp=sharing)]  
 
 ---
 

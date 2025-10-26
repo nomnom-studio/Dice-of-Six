@@ -41,7 +41,7 @@ and strengthening the presence of small-scale digital entertainment businesses w
 ## 🕒 Work Schedule & Documentation
 
 **Work Hours (Mon-Fri):** 8:00 AM - 12:00 PM  
-**Total:** 4 hours per day (**20 hours per week**)
+**Total:** 4 hours per day (**20 hours per week minimum**)
 
 **Verification Method:**  
 Development activity is conducted on a consistent full-time schedule.  
